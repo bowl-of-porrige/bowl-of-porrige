@@ -38,7 +38,7 @@
    - AI for cybersecurity
    - Network intrusion detection
 
-- :postbox: Contact: **xg123@ic.ac.uk**
+- :postbox: Contact: **xinfanguo@outlook.com**
 <!--Intro end-->
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
