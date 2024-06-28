@@ -28,7 +28,6 @@
 <!--About me-->
 - :octocat: Currently diving deep into the world of XAI as a STAI PhD student at both Imperial College London and King's College London. Based in :gb:.
 
-- :office: Member of University College London S2Lab
 
 - Thesis in focus: **"A Novel Model-driven AI Paradigm for Intrusion Detection: Lightweight & Explainable Host-based IDS for IoT".**
 
